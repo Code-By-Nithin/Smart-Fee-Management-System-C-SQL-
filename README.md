@@ -14,6 +14,7 @@ Framework / UI: WinUI
 Database: SQL Server
 IDE: Visual Studio
 
+
 ⚙️ Key Features
 Student fee record creation and management
 Payment tracking and balance updates
@@ -22,6 +23,19 @@ Search and filter student records
 Structured data storage using SQL Server
 Basic reporting for financial tracking
 User-friendly desktop interface
+
+<img width="1290" height="686" alt="Feemanagemet-1" src="https://github.com/user-attachments/assets/f257e899-e531-48c1-a28b-2cf77b4e2e2d" />
+
+Payment tracking and balance updates
+
+<img width="1290" height="686" alt="Feemanagemet-2" src="https://github.com/user-attachments/assets/4913606d-c2f8-4a4b-9490-0f5a7980ec32" />
+
+Basic reporting for financial tracking
+
+<img width="1290" height="686" alt="Feemanagemet-3" src="https://github.com/user-attachments/assets/2a82995c-69aa-4eda-b941-4370cb35ed09" />
+
+
+
 
 🧠 Key Responsibilities (Developer Role)
 Designed and developed full application using C#
