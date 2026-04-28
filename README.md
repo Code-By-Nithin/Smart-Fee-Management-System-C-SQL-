@@ -58,7 +58,7 @@ Enabled faster access to student financial data
 │── Reports (Fee Reports)
 
 🚀 Installation
-git clone https://github.com/your-username/fee-management-system.git
+git clone [https://github.com/your-username/fee-management-system.git](https://github.com/Code-By-Nithin/Smart-Fee-Management-System-C-SQL-/tree/main)
 Open project in Visual Studio
 Configure SQL Server connection
 Run database scripts
